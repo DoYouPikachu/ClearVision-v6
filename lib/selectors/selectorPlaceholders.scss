@@ -4324,7 +4324,7 @@ pre {
   @extend %threadHeaderBar !optional;
 }
 
-.children__fc4f04 {
+.children__fc4f04::after {
   @extend %headerBarChildren !optional;
 }
 
