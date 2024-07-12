@@ -4323,6 +4323,11 @@ pre {
 .container_fc4f04 {
   @extend %threadHeaderBar !optional;
 }
+
+.children__fc4f04 {
+  @extend %headerBarChildren !optional;
+}
+
 .popout_c5b389 {
   @extend %channelThreadPopout !optional;
 }
